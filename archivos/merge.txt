@@ -6,3 +6,6 @@ Con esta materia tengo intenciones de aprender todo lo que pueda sobre la progra
 
 no se le puede hacer commit a la carpeta archivos sin ningún archivo adentro, porque los repositorios tienen el objetivo de almacenar un historial de cambios en los ficheros y una carpeta vacía no tiene tal historial por lo que no tiene sentido que se pueda almacenar el repositorio
 
+
+Es importante tener cuidado con modificar dos archivos al mismo tiempo porque se puede dar el caso de que haya dos archivos con el mismo nombre que estén siendo modificados al mismo tiempo lo que crearía un conflicto.
+
