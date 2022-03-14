@@ -1,0 +1,1 @@
+no se le puede hacer commit a la carpeta archivos sin ningún archivo adentro, porque los repositorios tienen el objetivo de almacenar un historial de cambios en los ficheros y una carpeta vacía no tiene tal historial por lo que no tiene sentido que se pueda almacenar el repositorio
