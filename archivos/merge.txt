@@ -1,4 +1,8 @@
+
 Nombre: Carlos David Arango Escobar
 Edad: 20 años
 
 Con esta materia tengo intenciones de aprender todo lo que pueda sobre la programacion orientada a objetos para tener un punto de partida para mejorar los conocimientos que tengo en programacion y enfocarme en el desarollo web.
+
+no se le puede hacer commit a la carpeta archivos sin ningún archivo adentro, porque los repositorios tienen el objetivo de almacenar un historial de cambios en los ficheros y una carpeta vacía no tiene tal historial por lo que no tiene sentido que se pueda almacenar el repositorio
+
