@@ -1,0 +1,4 @@
+Nombre: Carlos David Arango Escobar
+Edad: 20 años
+
+Con esta materia tengo intenciones de aprender todo lo que pueda sobre la programacion orientada a objetos para tener un punto de partida para mejorar los conocimientos que tengo en programacion y enfocarme en el desarollo web.
